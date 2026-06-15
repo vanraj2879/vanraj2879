@@ -1,37 +1,77 @@
-[![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Vanraj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"></img>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanraj2879&label=Profile%20views&color=0e75b6&style=flat" alt="vanraj2879" /> </p>
+<h1 align="center">Hi there, I'm Vanraj Salotra 👋</h1>
+<h3 align="center">Assistant Manager - Digitalization & Innovation | Full Stack Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/vanraj51013275" target="blank"><img src="https://img.shields.io/twitter/follow/vanraj51013275?logo=twitter&style=for-the-badge" alt="vanraj51013275" /></a> </p>
-
-- 🔭 I’m currently working on **E-commerce Website**
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Any new project**
-
-- 👨‍💻 All of my projects are available at [https://strong-gingersnap-f2395a.netlify.app/](https://strong-gingersnap-f2395a.netlify.app/)
-
-- 💬 Ask me about **ReactJs,MERN,Android**
-
-- 📫 How to reach me **salotravanraj@gmail.com**
-
-- ⚡ Fun fact **I love cricket**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vanraj51013275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanraj51013275" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vanraj-salotra-382463201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanraj-salotra-382463201" height="30" width="40" /></a>
-<a href="https://instagram.com/vanraj2879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanraj2879" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:salotravanraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/vanraj-salotra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <em>Driving end-to-end digital strategy and bridging core business requirements with IT vendor execution.</em>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanraj2879&show_icons=true&locale=en&layout=compact" alt="vanraj2879" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanraj2879&show_icons=true&locale=en" alt="vanraj2879" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanraj2879&" alt="vanraj2879" /></p>
+- 🏢 **Current Role:** Assistant Manager of Digitalization and Innovation at Vedanta Ltd.
+- 🎯 **Focus:** Defining strategic digitalization roadmaps, managing cross-functional vendor ecosystems, and architecting production-grade GenAI solutions.
+- 💻 **Tech Stack:** React 19, TypeScript, Node.js, Python, Firebase, MS Azure, and LLM implementations (RAG, LangChain, LlamaIndex).
+- 🌱 **Currently Building:** *JKSSB Tutor* - an AI-powered, state-aware exam preparation platform with real-time gamification.
+- ⚡ **Profile:** Enthusiastic about learning new skills and implementing them on a daily basis.
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Architecture & Cloud
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+### Backend & AI
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🔭 Featured Projects
+
+### 📝 JKSSB Exam Assistant
+*A full-stack AI exam prep platform with real-time gamification.*
+- **Tech:** React 19, TypeScript, Vite, Firebase, Gemini API.
+- **Highlights:** Engineered a hierarchical syllabus tracker with real-time mastery analytics, dynamic Elo ranking, and a Firestore-backed state-aware Gemini study assistant.
+
+### 📑 Enterprise GenAI Document Chatbot
+*End-to-end Land Record Management System for Sijimali Bauxite Mines.*
+- **Tech:** MS Azure (App Service, Blob Storage), RAG, LangChain, Vector Embeddings.
+- **Highlights:** Digitized 5,000+ critical land records and deployed a natural-language search chatbot, reducing query resolution from hours to under 2 minutes for compliance users.
+
+### 🔄 PDF Converter Suite
+*Hybrid client-server document processing suite.*
+- **Tech:** React 19, TypeScript, Express.js, Python.
+- **Highlights:** Built LLM-assisted summarization, translation, and natural language document chat utilizing client-side ArrayBuffer chunking and a Python microservice.
+
+### 🚗 Corporate Transit System
+*Role-based transit booking platform.*
+- **Tech:** React, TypeScript, Firebase, Framer Motion.
+- **Highlights:** Architected real-time ride lifecycles via Firestore snapshot listeners, OTP verification, and interactive routing maps for Rider, Driver, and Admin portals.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanraj2879&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777" alt="Vanraj's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanraj2879&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777" alt="Top Languages" />
+</div>
